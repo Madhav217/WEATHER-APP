@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const apiKey = "abea037b86404e46988135847242508"; // Replace with your WeatherAPI key
+    const apiKey = "abea037b86404e46988135847242508"; 
     const cityInput = document.getElementById("city-input");
     const searchBtn = document.getElementById("search-btn");
     const weatherResult = document.getElementById("weather-result");
